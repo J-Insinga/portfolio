@@ -2,8 +2,10 @@ body {
   margin: 0;
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
-  --primary-color: #3498db;
-  --secondary-color: #246c9c;
+  /*--primary-color: #3498db;*/
+  --primary-color: #236235;
+   /*--secondary-color: #246c9c;*/
+  --secondary-color: #d4985c;
   --background-color: #fff;
   --background-color-alt: #f2f2f5;
   --text-color: #74808a;
